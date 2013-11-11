@@ -1,0 +1,3 @@
+从QTCreator导入VS，lib要指定对，否则会链接错误
+
+可以不在xxx.pro内配置lib路径和lib，先导入vs，再用vs配置，更为方便配置debug和release
